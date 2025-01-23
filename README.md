@@ -1,0 +1,1 @@
+This project is made with the intent of experimenting with css and other front end technologies based on the Odin Project excercises and personal design/structural changes and additions.
